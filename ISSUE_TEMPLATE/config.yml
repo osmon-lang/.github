@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💬 GitHub Discussions
-    url: https://github.com/uwussimo/osmon/discussions
+    url: https://github.com/osmon-lang/osmon/discussions
     about: Ask questions and post ideas
-  - name: 💭 Discord Server
-    url: https://discord.gg/uwussimo
+  - name: 💭 Telegram Chat
+    url: https://t.me/osmonchat
     about: Ask casual questions here
