@@ -33,7 +33,7 @@ You may find tempaltes for many things in this repository. Here are some of them
 Just copy & paste necessary files to your project. You may clone the project on your local machine and copy the files from there.
 
 ```shell
-git clone https://github.com/osmon-lang/.github
+git clone https://github.com/osmon-lang/.github assets
 ```
 
 ## License
