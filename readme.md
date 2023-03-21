@@ -1,0 +1,41 @@
+
+<header>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/osmon-lang/.github/raw/main/ASSETS/Osmon%20White.png">
+  <img alt="Osmon's Logo" height="100" align="left" src="https://github.com/osmon-lang/.github/raw/main/ASSETS/Osmon%20Black.png">
+</picture>
+<h1 style="display: inline">Assets</h1>
+
+Repository to keep templates and assets for Osmon's projects.
+
+</header>
+
+[![GitHub top language](https://img.shields.io/github/languages/top/osmon-lang/.github?color=232323&logo=github&labelColor=232323)](https://github.com/osmon-lang/.github)
+[![Channel](https://img.shields.io/badge/Chat-grey?color=232323&label=Chat&logo=telegram&labelColor=232323)](https://t.me/osmonlang)
+ 
+## About
+
+Sometimes managing repositories and making them look good is a pain. This repository is to keep all the assets and templates for Osmon's projects.
+
+## Features
+
+You may find tempaltes for many things in this repository. Here are some of them:
+
+- Pull Request
+- Issues
+- Readme
+- Assets
+- Funding
+- Code of Conduct
+
+## Installation
+
+Just copy & paste necessary files to your project. You may clone the project on your local machine and copy the files from there.
+
+```shell
+git clone https://github.com/osmon-lang/.github
+```
+
+## License
+
+This project is licensed under the CC0-1.0 Universal License - see the [LICENSE](../license) file for details.
