@@ -11,7 +11,7 @@ Repository to keep templates and assets for Osmon's projects.
 </header>
 
 [![GitHub top language](https://img.shields.io/github/languages/top/osmon-lang/.github?color=232323&logo=github&labelColor=232323)](https://github.com/osmon-lang/.github)
-[![Channel](https://img.shields.io/badge/Chat-grey?color=232323&label=Chat&logo=telegram&labelColor=232323)](https://t.me/osmonlang)
+[![Channel](https://img.shields.io/badge/Chat-grey?color=232323&label=chat&logo=telegram&labelColor=232323)](https://t.me/osmonlang)
  
 ## About
 
