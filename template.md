@@ -14,8 +14,8 @@ Template markdown file for Osmon projects.
 [![Author osmon-lang](https://img.shields.io/badge/osmon-lang-b820f9?labelColor=b820f9&logo=githubsponsors&logoColor=fff)](https://github.com/osmon-lang)
 
 [![GitHub top language](https://img.shields.io/github/languages/top/osmon-lang/.github?color=232323&label=Language&logo=github&labelColor=232323)](https://github.com/osmon-lang/.github)
-[![Channel](https://img.shields.io/badge/Chat-grey?style=flat-square&logo=telegram)](https://t.me/yurionblog)
-[![Shellcheck CI](https://github.com/katsuki-yuri/makudaun/actions/workflows/test.yml/badge.svg)](https://github.com/katsuki-yuri/makudaun/actions/workflows/test.yml)
+[![Channel](https://img.shields.io/badge/Chat-grey?color=232323&label=Chat&logo=telegram&labelColor=232323)](https://t.me/yurionblog)
+[![Tests CI](https://img.shields.io/github/actions/workflow/status/osmon-lang/osmon/osmon.yaml?color=232323&labelColor=232323)](https://github.com/osmon-lang/osmon/actions/workflows/osmon.yaml)
  
 ## About
 
