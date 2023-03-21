@@ -1,4 +1,4 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./ASSETS/Osmon%20White.png">
-  <img alt="Osmon's Logo" height="300" src="./ASSETS/Osmon%20Black.png">
+  <img alt="Osmon's Logo" height="150" src="./ASSETS/Osmon%20Black.png">
 </picture>
