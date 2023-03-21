@@ -21,12 +21,12 @@ Sometimes managing repositories and making them look good is a pain. This reposi
 
 You may find tempaltes for many things in this repository. Here are some of them:
 
-- Pull Request
-- Issues
-- Readme
-- Assets
-- Funding
-- Code of Conduct
+- [Pull Request](https://github.com/osmon-lang/.github/tree/main/PULL_REQUEST_TEMPLATE)
+- [Issues](https://github.com/osmon-lang/.github/tree/main/ISSUE_TEMPLATE)
+- [Readme](https://github.com/osmon-lang/.github/tree/main/PROFILE)
+- [Assets](https://github.com/osmon-lang/.github/tree/main/ASSETS)
+- [Funding](https://github.com/osmon-lang/.github/blob/main/FUNDING.yml)
+- [Code of Conduct](https://github.com/osmon-lang/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Installation
 
