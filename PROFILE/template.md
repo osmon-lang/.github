@@ -31,4 +31,4 @@ Installation instructions.
 
 ## License
 
-This project is licensed under the <LICENSE> License - see the [LICENSE](license) file for details.
+This project is licensed under the <LICENSE> License - see the [LICENSE](../license) file for details.
